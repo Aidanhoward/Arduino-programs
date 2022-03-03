@@ -23,8 +23,6 @@ const int buzzerPin = 8;
 const int ledPin1 = 10;
 const int ledPin2 = 6;
 
-const int ledPin1 = 1;
-const int ledPin2 = 3;
  
 int counter = 0;
  
